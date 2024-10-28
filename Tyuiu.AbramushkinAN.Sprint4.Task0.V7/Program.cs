@@ -40,7 +40,7 @@ namespace Tyuiu.AbramushkinAN.Sprint4.Task0.V7
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine($"Произведение нечетных элементов массива = {result}");
+            Console.WriteLine($"Произведение нечетных элементов массива : {result}");
         }
     }
 }

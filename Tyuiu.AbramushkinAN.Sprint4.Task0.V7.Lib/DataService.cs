@@ -6,15 +6,15 @@ namespace Tyuiu.AbramushkinAN.Sprint4.Task0.V7.Lib
     {
         public int GetMultOddArrEl(int[] array)
         {
-            int Result = 1;
+            int result = 1;
             for (int i = 0; i < array.Length; i++)
             {
                 if (array[i] % 2 != 0)
                 {
-                    Result *= array[i];
+                    result *= array[i];
                 }
             }
-            return Result;
+            return result;
 
         }
     }
