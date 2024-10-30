@@ -38,8 +38,6 @@ namespace Tyuiu.AbramushkinAN.Sprint4.Task3.V20
             int RowsOfArray = matrix.GetUpperBound(0)+1;
             int ColumnsOfArray = matrix.GetUpperBound(1)+1;
 
-
-            int result = ds.Calculate(matrix);
             Console.WriteLine("Массив:");
             for (int i = 0; i < RowsOfArray; i++)
             {
