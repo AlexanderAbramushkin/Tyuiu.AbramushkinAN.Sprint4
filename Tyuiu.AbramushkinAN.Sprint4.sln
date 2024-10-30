@@ -13,19 +13,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.AbramushkinAN.Sprint4
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{EBBA163F-68AD-42DE-B43C-ED48D80CC196}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AbramushkinAN.Sprint4.Task1.V6", "Tyuiu.AbramushkinAN.Sprint4.Task1.V6\Tyuiu.AbramushkinAN.Sprint4.Task1.V6.csproj", "{1C73532A-D7A5-4E99-AAEF-14F8EC5B6957}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.AbramushkinAN.Sprint4.Task1.V6", "Tyuiu.AbramushkinAN.Sprint4.Task1.V6\Tyuiu.AbramushkinAN.Sprint4.Task1.V6.csproj", "{1C73532A-D7A5-4E99-AAEF-14F8EC5B6957}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AbramushkinAN.Sprint4.Task1.V6.Lib", "Tyuiu.AbramushkinAN.Sprint4.Task1.V6.Lib\Tyuiu.AbramushkinAN.Sprint4.Task1.V6.Lib.csproj", "{CC03F5AA-6978-407D-B961-2DF967594DFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.AbramushkinAN.Sprint4.Task1.V6.Lib", "Tyuiu.AbramushkinAN.Sprint4.Task1.V6.Lib\Tyuiu.AbramushkinAN.Sprint4.Task1.V6.Lib.csproj", "{CC03F5AA-6978-407D-B961-2DF967594DFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AbramushkinAN.Sprint4.Task1.V6.Test", "Tyuiu.AbramushkinAN.Sprint4.Task1.V6.Test\Tyuiu.AbramushkinAN.Sprint4.Task1.V6.Test.csproj", "{2B7D96B7-5E15-4BB5-9FFB-C93D107CE76A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.AbramushkinAN.Sprint4.Task1.V6.Test", "Tyuiu.AbramushkinAN.Sprint4.Task1.V6.Test\Tyuiu.AbramushkinAN.Sprint4.Task1.V6.Test.csproj", "{2B7D96B7-5E15-4BB5-9FFB-C93D107CE76A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{8F89F4F1-22F2-4B3E-B5B8-36B8178177ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AbramushkinAN.Sprint4.Task2.V10", "Tyuiu.AbramushkinAN.Sprint4.Task2.V10\Tyuiu.AbramushkinAN.Sprint4.Task2.V10.csproj", "{B11ED737-6519-4089-B519-1583601E842B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.AbramushkinAN.Sprint4.Task2.V10", "Tyuiu.AbramushkinAN.Sprint4.Task2.V10\Tyuiu.AbramushkinAN.Sprint4.Task2.V10.csproj", "{B11ED737-6519-4089-B519-1583601E842B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AbramushkinAN.Sprint4.Task2.V10.Test", "Tyuiu.AbramushkinAN.Sprint4.Task2.V10.Test\Tyuiu.AbramushkinAN.Sprint4.Task2.V10.Test.csproj", "{1830B7E9-44BA-465A-95CA-87E8AB1AE94D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.AbramushkinAN.Sprint4.Task2.V10.Test", "Tyuiu.AbramushkinAN.Sprint4.Task2.V10.Test\Tyuiu.AbramushkinAN.Sprint4.Task2.V10.Test.csproj", "{1830B7E9-44BA-465A-95CA-87E8AB1AE94D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AbramushkinAN.Sprint4.Task2.V10.Lib", "Tyuiu.AbramushkinAN.Sprint4.Task2.V10.Lib\Tyuiu.AbramushkinAN.Sprint4.Task2.V10.Lib.csproj", "{5CADB49D-D3AB-4FBC-8B77-D3C3CF0D36D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.AbramushkinAN.Sprint4.Task2.V10.Lib", "Tyuiu.AbramushkinAN.Sprint4.Task2.V10.Lib\Tyuiu.AbramushkinAN.Sprint4.Task2.V10.Lib.csproj", "{5CADB49D-D3AB-4FBC-8B77-D3C3CF0D36D2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{C3FF7DE4-085E-46E8-9DDA-E4C6EEB21C56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AbramushkinAN.Sprint4.Task3.V20", "Tyuiu.AbramushkinAN.Sprint4.Task3.V20\Tyuiu.AbramushkinAN.Sprint4.Task3.V20.csproj", "{F515C73C-8176-4C85-8E87-7FA81DE9EC9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AbramushkinAN.Sprint4.Task3.V20.Lib", "Tyuiu.AbramushkinAN.Sprint4.Task3.V20.Lib\Tyuiu.AbramushkinAN.Sprint4.Task3.V20.Lib.csproj", "{006AF84D-4ADA-46FA-826D-9B91C23A6C8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AbramushkinAN.Sprint4.Task3.V20.Test", "Tyuiu.AbramushkinAN.Sprint4.Task3.V20.Test\Tyuiu.AbramushkinAN.Sprint4.Task3.V20.Test.csproj", "{4CF3EFE0-DBED-495B-9996-96DB948D841B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +77,18 @@ Global
 		{5CADB49D-D3AB-4FBC-8B77-D3C3CF0D36D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CADB49D-D3AB-4FBC-8B77-D3C3CF0D36D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CADB49D-D3AB-4FBC-8B77-D3C3CF0D36D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F515C73C-8176-4C85-8E87-7FA81DE9EC9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F515C73C-8176-4C85-8E87-7FA81DE9EC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F515C73C-8176-4C85-8E87-7FA81DE9EC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F515C73C-8176-4C85-8E87-7FA81DE9EC9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{006AF84D-4ADA-46FA-826D-9B91C23A6C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{006AF84D-4ADA-46FA-826D-9B91C23A6C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{006AF84D-4ADA-46FA-826D-9B91C23A6C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{006AF84D-4ADA-46FA-826D-9B91C23A6C8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CF3EFE0-DBED-495B-9996-96DB948D841B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF3EFE0-DBED-495B-9996-96DB948D841B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF3EFE0-DBED-495B-9996-96DB948D841B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF3EFE0-DBED-495B-9996-96DB948D841B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -83,6 +103,9 @@ Global
 		{B11ED737-6519-4089-B519-1583601E842B} = {8F89F4F1-22F2-4B3E-B5B8-36B8178177ED}
 		{1830B7E9-44BA-465A-95CA-87E8AB1AE94D} = {8F89F4F1-22F2-4B3E-B5B8-36B8178177ED}
 		{5CADB49D-D3AB-4FBC-8B77-D3C3CF0D36D2} = {8F89F4F1-22F2-4B3E-B5B8-36B8178177ED}
+		{F515C73C-8176-4C85-8E87-7FA81DE9EC9F} = {C3FF7DE4-085E-46E8-9DDA-E4C6EEB21C56}
+		{006AF84D-4ADA-46FA-826D-9B91C23A6C8B} = {C3FF7DE4-085E-46E8-9DDA-E4C6EEB21C56}
+		{4CF3EFE0-DBED-495B-9996-96DB948D841B} = {C3FF7DE4-085E-46E8-9DDA-E4C6EEB21C56}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4E776D05-58A5-4411-916A-A8AC27FF43F2}
